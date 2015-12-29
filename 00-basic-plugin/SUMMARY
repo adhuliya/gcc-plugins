@@ -1,0 +1,1 @@
+GCC Plugin to read passed arguments, and check gcc version for safety.

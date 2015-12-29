@@ -1,0 +1,70 @@
+nintelZZ: <var_decl 0x2b71b17d6c60 D.2336
+    type <record_type 0x2b71b1936e70 A type_5 type_6 DI
+        size <integer_cst 0x2b71b17c9e58 constant 64>
+        unit size <integer_cst 0x2b71b17c9e70 constant 8>
+        align 32 symtab 0 alias set -1 canonical type 0x2b71b1936e70
+        fields <field_decl 0x2b71b19374c0 x type <integer_type 0x2b71b17cd690 int>
+            nonlocal decl_3 SI file test.cc line 3 col 9
+            size <integer_cst 0x2b71b17eb0a8 constant 32>
+            unit size <integer_cst 0x2b71b17eb0c0 constant 4>
+            align 32 offset_align 128
+            offset <integer_cst 0x2b71b17c9e88 constant 0>
+            bit offset <integer_cst 0x2b71b17c9ed0 constant 0> context <record_type 0x2b71b1936e70 A> chain <field_decl 0x2b71b1937558 y>> context <translation_unit_decl 0x2b71b06171e0 D.1>
+        full-name "struct A"
+        X() X(constX&) this=(X&) n_parents=0 use_template=0 interface-unknown
+        pointer_to_this <pointer_type 0x2b71b1949690> chain <type_decl 0x2b71b1937390 A>>
+    addressable ignored DI file test.cc line 15 col 11
+    size <integer_cst 0x2b71b17c9e58 type <integer_type 0x2b71b17cd150 bitsizetype> constant 64>
+    unit size <integer_cst 0x2b71b17c9e70 type <integer_type 0x2b71b17cd0a8 sizetype> constant 8>
+    align 32 context <function_decl 0x2b71b194a288 test_foo> chain <var_decl 0x2b71b17d6d80 D.2338>>nintelZZ: <var_decl 0x2b71b17d6cf0 z
+    type <integer_type 0x2b71b17cd690 int sizes-gimplified public SI
+        size <integer_cst 0x2b71b17eb0a8 constant 32>
+        unit size <integer_cst 0x2b71b17eb0c0 constant 4>
+        align 32 symtab 0 alias set -1 canonical type 0x2b71b17cd690 precision 32 min <integer_cst 0x2b71b17eb060 -2147483648> max <integer_cst 0x2b71b17eb078 2147483647>
+        pointer_to_this <pointer_type 0x2b71b17ef7e0>>
+    tree_1 tree_3 decl_5 SI file test.cc line 17 col 9
+    size <integer_cst 0x2b71b17eb0a8 type <integer_type 0x2b71b17cd150 bitsizetype> constant 32>
+    unit size <integer_cst 0x2b71b17eb0c0 type <integer_type 0x2b71b17cd0a8 sizetype> constant 4>
+    align 32 context <function_decl 0x2b71b194a288 test_foo>>nintelZZ: <var_decl 0x2b71b194b480 D.2376
+    type <integer_type 0x2b71b17cd690 int sizes-gimplified public SI
+        size <integer_cst 0x2b71b17eb0a8 constant 32>
+        unit size <integer_cst 0x2b71b17eb0c0 constant 4>
+        align 32 symtab 0 alias set -1 canonical type 0x2b71b17cd690 precision 32 min <integer_cst 0x2b71b17eb060 -2147483648> max <integer_cst 0x2b71b17eb078 2147483647>
+        pointer_to_this <pointer_type 0x2b71b17ef7e0>>
+    used ignored SI file test.cc line 21 col 6
+    size <integer_cst 0x2b71b17eb0a8 type <integer_type 0x2b71b17cd150 bitsizetype> constant 32>
+    unit size <integer_cst 0x2b71b17eb0c0 type <integer_type 0x2b71b17cd0a8 sizetype> constant 4>
+    align 32 context <function_decl 0x2b71b194a288 test_foo> chain <var_decl 0x2b71b17d6cf0 z>>nintelZZ: <var_decl 0x2b71b17d6c60 D.2336
+    type <record_type 0x2b71b1936e70 A type_5 type_6 DI
+        size <integer_cst 0x2b71b17c9e58 constant 64>
+        unit size <integer_cst 0x2b71b17c9e70 constant 8>
+        align 32 symtab 0 alias set -1 canonical type 0x2b71b1936e70
+        fields <field_decl 0x2b71b19374c0 x type <integer_type 0x2b71b17cd690 int>
+            nonlocal decl_3 SI file test.cc line 3 col 9
+            size <integer_cst 0x2b71b17eb0a8 constant 32>
+            unit size <integer_cst 0x2b71b17eb0c0 constant 4>
+            align 32 offset_align 128
+            offset <integer_cst 0x2b71b17c9e88 constant 0>
+            bit offset <integer_cst 0x2b71b17c9ed0 constant 0> context <record_type 0x2b71b1936e70 A> chain <field_decl 0x2b71b1937558 y>> context <translation_unit_decl 0x2b71b06171e0 D.1>
+        full-name "struct A"
+        X() X(constX&) this=(X&) n_parents=0 use_template=0 interface-unknown
+        pointer_to_this <pointer_type 0x2b71b1949690> chain <type_decl 0x2b71b1937390 A>>
+    addressable ignored DI file test.cc line 15 col 11
+    size <integer_cst 0x2b71b17c9e58 type <integer_type 0x2b71b17cd150 bitsizetype> constant 64>
+    unit size <integer_cst 0x2b71b17c9e70 type <integer_type 0x2b71b17cd0a8 sizetype> constant 8>
+    align 32 context <function_decl 0x2b71b194a288 test_foo> chain <var_decl 0x2b71b17d6d80 D.2338>>nintelZZ: <var_decl 0x2b71b194b120 D.2356
+    type <record_type 0x2b71b1949930 B addressable type_4 type_5 type_6 BLK
+        size <integer_cst 0x2b71b17c9f48 constant 8>
+        unit size <integer_cst 0x2b71b17c9f60 constant 1>
+        align 8 symtab 0 alias set -1 canonical type 0x2b71b1949930
+        fields <type_decl 0x2b71b1937720 B type <record_type 0x2b71b19499d8 B>
+            used nonlocal decl_4 VOID file test.cc line 25 col 1
+            align 1 context <record_type 0x2b71b1949930 B> result <record_type 0x2b71b1949930 B>
+           > context <translation_unit_decl 0x2b71b06171e0 D.1>
+        full-name "struct B"
+        needs-destructor X() X(constX&) this=(X&) n_parents=0 use_template=0 interface-unknown
+        pointer_to_this <pointer_type 0x2b71b1949bd0> chain <type_decl 0x2b71b1937688 B>>
+    addressable used ignored BLK file test.cc line 33 col 9
+    size <integer_cst 0x2b71b17c9f48 type <integer_type 0x2b71b17cd150 bitsizetype> constant 8>
+    unit size <integer_cst 0x2b71b17c9f60 type <integer_type 0x2b71b17cd0a8 sizetype> constant 1>
+    align 8 context <function_decl 0x2b71b194a6c0 test_bar>>

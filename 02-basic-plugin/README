@@ -1,0 +1,5 @@
+This plugin runs in IPA phase after 'pta' pass.
+
+It prints the functions and their basic blocks with their gimple assignement statements
+and the detailed print_node() information of its operands (lhs and rhs) to the standard
+output.
